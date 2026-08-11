@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-
-
-
-
-
 <head>
     <title>GET Request Example</title>
 </head>
